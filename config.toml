@@ -14,14 +14,14 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "Bethel University | Josh Beverly"
+  SEOTitle = "Josh Beverly"
   description = "This is my personal website."
   keyword = "Josh Beverly"
   slogan = "Go Big or Go Home!"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Test 1"
-  omit_categories = false
+  omit_categories = true
 
   # leancloud storage for page view counter
   page_view_conter = false 
