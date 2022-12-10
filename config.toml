@@ -1,4 +1,4 @@
-baseurl = "https://joshbeverly.netlify.app/"
+baseurl = "https://joshbeverly.netlify.app/about/"
 title = "Josh Beverly"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
