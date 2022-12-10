@@ -16,8 +16,8 @@ home = ["HTML", "RSS", "Algolia"]
   header_image = "img/econ3.jpg"
   SEOTitle = "Josh Beverly"
   description = "This is my personal website."
-  keyword = "Josh Beverly"
-  slogan = "Go Big or Go Home!"
+  keyword = "BLOG"
+  slogan = "BLOG and Website"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Test 1"
@@ -108,11 +108,20 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "ARCHIVE"
   href =  "/archive/"
   [[params.addtional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
+  title =  "MY CV"
+  href =  "/cv/"
+  [[params.addtional_menus]]
+  title =  "RESEARCH"
+  href =  "/research/"
+  [[params.addtional_menus]]
+  title =  "CLASSES"
+  href =  "/classes/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"
+  [[params.addtional_menus]]
+  title =  "CONTACT"
+  href =  "/contact/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
