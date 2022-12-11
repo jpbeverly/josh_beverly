@@ -52,7 +52,7 @@ Feel free to connect with Josh at Github, Linkedin, Twitter, Instagram, or [emai
 | hugo-theme-cleanwhite | Creator    |
 
 ## Courses Taught
-| Course |Year(s) |School | Position | Approximate # of Students |
+| Course |Year(s) |School | Position | Students* |
 | ----------- |----------- |----------- |----------- |-----------|
 |Personal Finance| 2023| Bethel University| Instructor| |
 |Principles of Micro/Macro Economics|2022-2023| Bethel University| Instructor| 220 |
@@ -65,3 +65,5 @@ Feel free to connect with Josh at Github, Linkedin, Twitter, Instagram, or [emai
 |Algebra 3 & Trigonometry|2014-2018| Shady Spring High School| Instructor|75|
 |Algebra 2 & Geometry| 2014-2018| Shady Spring High School| Instructor|180|
 |Algebra 1| 2014-2017| Shady Spring High School|Instructor|150|
+
+*The number of students is approximate.

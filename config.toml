@@ -55,7 +55,7 @@ home = ["HTML", "RSS", "Algolia"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  reward = false 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
   friends = false
@@ -112,7 +112,7 @@ home = ["HTML", "RSS", "Algolia"]
   href =  "/cv/"
   [[params.addtional_menus]]
   title =  "RESEARCH"
-  href =  "/research/"
+  href =  "/research/Research/"
   [[params.addtional_menus]]
   title =  "CLASSES"
   href =  "/classes/"
